@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **aliekamar123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AUQejBPFe-xb9qYu5QbUJPD_SS8GWtHw/view?usp=drivesdk](https://drive.google.com/file/d/1AUQejBPFe-xb9qYu5QbUJPD_SS8GWtHw/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
