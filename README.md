@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ali Kamar</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on  Building high-quality Flutter mobile applications with a focus on clean architecture and smooth user experiences.<br><br>👯 I’m looking to collaborate on Flutter-based mobile apps, open-source projects, and real-world product ideas.<br><br>🤝 I’m looking for help with Improving app scalability, performance optimization, and best practices in production-level Flutter apps.<br><br>🌱 I’m currently learning Advanced Flutter patterns, state management solutions, and mobile app optimization techniques.<br><br>💬 Ask me about Flutter, Dart, UI/UX implementation, Firebase integration, and mobile app workflows.<br><br>⚡ Fun fact I enjoy turning complex app ideas into simple, intuitive user interfaces.<br>
 
