@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Kamar</h1>
+<h1 align="center">Hi 👋, I'm Ali Kamar<br><br>Passionate Flutter Developer crafting smooth mobile experiences 📱</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on  Building high-quality Flutter mobile applications with a focus on clean architecture and smooth user experiences.<br><br>👯 I’m looking to collaborate on Flutter-based mobile apps, open-source projects, and real-world product ideas.<br><br>🤝 I’m looking for help with Improving app scalability, performance optimization, and best practices in production-level Flutter apps.<br><br>🌱 I’m currently learning Advanced Flutter patterns, state management solutions, and mobile app optimization techniques.<br><br>💬 Ask me about Flutter, Dart, UI/UX implementation, Firebase integration, and mobile app workflows.<br><br>⚡ Fun fact I enjoy turning complex app ideas into simple, intuitive user interfaces.<br>
@@ -6,9 +6,11 @@
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliKamar34&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AliKamar34&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AliKamar34&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=AliKamar34&theme=github-dark-dimmed&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKamar34&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AliKamar34&theme=github-dark)
+![](https://komarev.com/ghpvc/?username=AliKamar34&color=blue&style=flat)
 
 
 ## 🌐 Socials:
